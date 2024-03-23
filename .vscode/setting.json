@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
-        "/workspaces/applied-rust/exercise/create_new_library/Cargo.toml"       
+        "/workspaces/applied-rust/exercise/create_new_library/Cargo.toml",
+        "exercise/create_new_library/Cargo.toml"       
     ]
 }
